@@ -1,4 +1,4 @@
-# here you fine PCB projects that may be interesting :)
+# Here you fine PCB projects that may be interesting :)
 
 #This PCB contain the "proteus ISIS" project for the GBF project.
 
